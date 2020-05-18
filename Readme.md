@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Суслова Каролина](https://up.htmlacademy.ru/htmlcss/28/user/1414605).
-* Наставник: [Михаил Поданев]https://htmlacademy.ru/profile/id63947.
+* Наставник: [Михаил Поданев](https://htmlacademy.ru/profile/id63947).
 
 ---
 
